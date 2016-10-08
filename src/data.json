@@ -1,0 +1,87 @@
+{
+  "Items": [
+    {
+      "payload": {
+        "timestamp": "2016-03-20 14:53:47",
+        "moi": "0",
+        "hum": "34.00",
+        "temp": "20.00",
+        "deviceid": "pi_01"
+      },
+      "deviceid": "pi_01",
+      "timestamp": "2016-03-20 14:53:47"
+    },
+    {
+      "payload": {
+        "timestamp": "2016-03-20 14:53:57",
+        "moi": "0",
+        "hum": "45.00",
+        "temp": "21.00",
+        "deviceid": "pi_01"
+      },
+      "deviceid": "pi_01",
+      "timestamp": "2016-03-20 14:53:57"
+    },
+    {
+      "payload": {
+        "timestamp": "2016-03-20 14:54:07",
+        "moi": "724",
+        "hum": "46.00",
+        "temp": "21.00",
+        "deviceid": "pi_01"
+      },
+      "deviceid": "pi_01",
+      "timestamp": "2016-03-20 14:54:07"
+    },
+    {
+      "payload": {
+        "timestamp": "2016-03-20 14:54:17",
+        "moi": "1906",
+        "hum": "45.00",
+        "temp": "21.00",
+        "deviceid": "pi_01"
+      },
+      "deviceid": "pi_01",
+      "timestamp": "2016-03-20 14:54:17"
+    },
+    {
+      "payload": {
+        "timestamp": "2016-03-20 14:54:27",
+        "moi": "1977",
+        "hum": "45.00",
+        "temp": "21.00",
+        "deviceid": "pi_01"
+      },
+      "deviceid": "pi_01",
+      "timestamp": "2016-03-20 14:54:27"
+    },
+    {
+      "payload": {
+        "timestamp": "2016-03-20 14:54:37",
+        "moi": "1953",
+        "hum": "45.00",
+        "temp": "21.00",
+        "deviceid": "pi_01"
+      },
+      "deviceid": "pi_01",
+      "timestamp": "2016-03-20 14:54:37"
+    },
+    {
+      "payload": {
+        "timestamp": "2016-03-20 14:54:47",
+        "moi": "1920",
+        "hum": "45.00",
+        "temp": "21.00",
+        "deviceid": "pi_01"
+      },
+      "deviceid": "pi_01",
+      "timestamp": "2016-03-20 14:54:47"
+    }
+  ],
+  "Count": 7,
+  "ScannedCount": 7,
+  "LastEvaluatedKey": {
+    "deviceid": "pi_01",
+    "timestamp": "2016-03-20 14:54:47"
+  }
+}
